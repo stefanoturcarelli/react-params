@@ -1,5 +1,4 @@
 import { Routes, Route } from "react-router-dom";
-import { useState } from "react";
 import "./App.css";
 import Home from "./pages/Home.jsx";
 import Movies from "./pages/Movies.jsx";
