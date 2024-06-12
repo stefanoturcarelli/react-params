@@ -6,6 +6,10 @@
   --input-width: 360px;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: var(--background-color);

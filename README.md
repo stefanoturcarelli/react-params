@@ -1,5 +1,7 @@
 # React Params
 
+The 'useSearchParams' hook is a highly efficient tool that allows you to manage the URL search parameters in your React app. It returns an object with two properties: 'searchParams' and 'setSearchParams.' This hook simplifies the manipulation of URL search parameters in your React app, for instance, updating the URL when the user selects a filter or sorting option. 'useSearchParams' can be used to seamlessly integrate the state of a component with the browser's URL, ensuring that changes in your component's state are both reflected in and not influenced by the URL.
+
 Syncronize the URL params with the React state.
 
 The value of the state will be also updated when the URL params change. So,
